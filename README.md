@@ -1,4 +1,4 @@
-## Well, hello there
+## Hey!
 
 My name is Miguel and I'm a Computer Science student interested in Artificial Intelligence and Data Science, currently exploring machine learning methods, with a particular focus on large language models and data-driven decision making. However, most of my time is spent on software engineering, algorithm analysis and distributed systems.
 
